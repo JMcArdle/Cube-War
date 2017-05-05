@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Cube
   - LaunchPointer
+  - MusicPlayer
+  - ParalyzeAoe
   layers:
   - Default
   - TransparentFX
@@ -20,9 +22,9 @@ TagManager:
   - placing
   - cube
   - RaycastGround
-  - 
-  - 
-  - 
+  - Sides
+  - AoE
+  - SideShadow
   - 
   - 
   - 
